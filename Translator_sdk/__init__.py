@@ -2,4 +2,4 @@
 
 from .translator_node import TranslatorNode as TranslatorNode
 
-from . import name_resolver as name_resolver, node_normalizer as node_normalizer, translator_query as translator_query
+from . import node_normalizer as node_normalizer, node_annotator as node_annotator, name_resolver as name_resolver, translator_query as translator_query
